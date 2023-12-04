@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "description": "Learn the basics of React and how to set up your first project.",
+    "image": "https://via.placeholder.com/400x200", 
+    "userPhoto": "https://via.placeholder.com/40", 
+    "userName": "John Doe",
+    "date": "August 25, 2023",
+    "readMoreLink": "/blog/getting-started"
+  },
+  {
+    "id": 2,
+    "title": "Responsive Web Design Techniques",
+    "description": "Discover techniques for creating responsive web layouts using CSS.",
+    "image": "https://via.placeholder.com/400x200", 
+    "userPhoto": "https://via.placeholder.com/40", 
+    "userName": "Jane Smith",
+    "date": "September 5, 2023",
+    "readMoreLink": "/blog/responsive-design"
+  }
+
+]
+
+  
